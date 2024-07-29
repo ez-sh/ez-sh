@@ -1,1 +1,2 @@
-curl -LJO https://github.com/Tahj-S/Operations-Calculator/releases/tag/v1.0.0-alpha
+echo ("gui comming soon")
+git clone https://github.com/Tahj-S/Operations-Calculator
